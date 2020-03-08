@@ -26,7 +26,8 @@ sidebar:
 
     languages:
       - idiom: English
-        level: B2-C1    
+        level: B2-C1
+        details: xxx
 
       - idiom: Spanish
         level: Professional
