@@ -15,7 +15,7 @@ sidebar:
     email: luna.garrido.lopez@gmail.com
     phone: 691670078
     website: mapeoco.aq.upm.es/buscador.php #do not add http://
-    linkedin: http://www.linkedin.com/in/lunagarrido
+    linkedin: www.linkedin.com/in/lunagarrido
     github: lunamatrix101
     gitlab:
     bitbucket:
@@ -45,8 +45,19 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
+    - degree: Computing Application Development Professional Training(DUAL)
+      university: IES Clara del Rey Madrid 
+      time: 2015 - 2016
+      details: Average scrore: 8.89/10 |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
     - degree: Architect Technician
-      university: Polytechnic University of Madrid (UPM) 
+      university: Polytechnic University of Madrid (UPM)
       time: 2004 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -56,33 +67,19 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Programmer
+      time: 2016 - Present
+      company: Tessi Iberia Madrid
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Design, develop and architecture WPF/Net Core  C# application based on N-Layers Architecture, using PRISM Framework for implementing MVVM pattern and modularity including Dependency Injection. Syncfusion components. Infrastructure layer with Repository pattern plus Entity Framework Database SQL-Server 2017 T-SQL. Create Nuget Package. Unit Testing.
+Create, deploy and distributed multiple service worker in NetCore 3.1 using RabbitMQ to allow scalability and balance.
+Image conversions with LeadTools 19. File Transformation Interop/ LibreOffice.
+Develop and Deploy WebSevice Restful API ASP.NET 2. Windows Services in C#. Azure blob storage.
+Support and maintenance of multiple applications based on bug analysis and elimination, as well as include new requirements from the client.
+Requirement Gathering from client and subsequently, Analysis and Development of them.
+Implement agile scrum methodology in application development.
+
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
