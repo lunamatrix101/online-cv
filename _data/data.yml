@@ -31,7 +31,7 @@ sidebar:
       - idiom: Spanish
         level: Professional
 
-    interests:
+    interests: |
       - item: 
         link:
 
@@ -47,12 +47,12 @@ career-profile:
 education:
     - degree: Computing Application Development Professional Training(DUAL)
       university: IES Clara del Rey Madrid 
-      time: 2015 - 2016
+      time: 2016 - 2015
       details:       
-          - Average scrore: 8.89/10
+          - Average scrore 8.89/10
     - degree: Architect Technician
       university: Polytechnic University of Madrid (UPM)
-      time: 2004 - 2010
+      time: 2010 - 2004
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -88,9 +88,13 @@ experiences:
         Razor, Javascript, Jquery, Ajax, Kendo, CSS3,Bootstrap,etc.Unit testing. SCRUM methodology.
     - role: Architectural Technician
       time: MAY 2015 - OCT 2007
-      company: Zed Worldwide,S.A.
       details: |
         Functions of the respective profession. Gathering data and requirement, project documentation, Budget, certifications, etc.
+    - role: Volunteer
+      time: Present - 2016
+      details: |
+        - Mentoring - TechSHEssions - https://2018.commit-conf.com/tech-shessions/
+        - Co-Organizer - WomenDotNet Community @WomenDot
 skills:
     title: Skills &amp; Proficiency
 
