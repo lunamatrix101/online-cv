@@ -28,15 +28,17 @@
       {{ experience.details | markdownify }}
     </div><!--//details-->
     {% endif %}
-{% for publication in experience.papers %}
-  <div class="item">
-    {% if publication.link %}
-      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
-    {% else %}
-      <li>{{ publication.title }}</li>
+    {% if experience.papers %}
+          <div class="item">
+          {% for publication in experience.papers %}           
+              {% if publication.link %}
+                <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+              {% else %}
+                <li>{{ publication.title }}</li>
+              {% endif %}           
+            {% endfor %}
+          </div><!--//item-->
     {% endif %}
-  </div><!--//item-->
-  {% endfor %}
   </div><!--//item-->
   {% endfor %}
 
