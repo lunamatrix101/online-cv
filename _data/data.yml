@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Luna Garrido
     tagline: .Net Developer
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: luna.garrido.lopez@gmail.com
@@ -46,7 +46,7 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: Architect Technician
-      university: University of London
+      university: Polytechnic University of Madrid (UPM) 
       time: 2004 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
