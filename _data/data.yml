@@ -48,12 +48,8 @@ education:
     - degree: Computing Application Development Professional Training(DUAL)
       university: IES Clara del Rey Madrid 
       time: 2015 - 2016
-      details: Average scrore: 8.89/10 |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+      details:  |
+       Average scrore: 8.89/10
           - Bullet point
           - Bullet point
     - degree: Architect Technician
