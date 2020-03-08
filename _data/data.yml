@@ -95,23 +95,27 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Azure, Angular, Xamarin, Android, MySQL, Oracle
+        level: 35%
+
+      - name: SQL Server 2019, TS-SQL, EF Core, ADO.NET, Linq
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: C#, VB.NET, NET Framework 4.8/ NET Core 3.1
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: ASP.NET MVC, WPF MVVM PRISM, RabbitMQ
         level: 60%
+
+      - name: HTML5, JavaScript,Jquery,Ajax,Kendo,CSS3,Bootstrap
+        level: 50%
+
+      - name: GIT/TFS Visual Studio 2019
+        level: 70%
+      - name: XML,JSON,XPATH,XSLT
+        level: 80%
+      - name: SCRUM, Kanban
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
