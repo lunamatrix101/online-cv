@@ -54,7 +54,7 @@ education:
           - Bullet point
 experiences:
     - role: Senior Programmer
-      time: 2016 - Present
+      time: JUL 2016 - Present
       company: Tessi Iberia Madrid
       details: |
        - Design, develop and architecture WPF/Net Core  C# application based on N-Layers Architecture, using PRISM Framework for implementing MVVM pattern and modularity including Dependency Injection. Syncfusion components. Infrastructure layer with Repository pattern plus Entity Framework Database SQL-Server 2017 T-SQL. Create Nuget Package. Unit Testing.
