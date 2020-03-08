@@ -48,10 +48,8 @@ education:
     - degree: Computing Application Development Professional Training(DUAL)
       university: IES Clara del Rey Madrid 
       time: 2015 - 2016
-      details:  |
-       Average scrore: 8.89/10
-          - Bullet point
-          - Bullet point
+      details:  |       
+          - Average scrore: 8.89/10
     - degree: Architect Technician
       university: Polytechnic University of Madrid (UPM)
       time: 2004 - 2010
@@ -69,12 +67,12 @@ experiences:
       company: Tessi Iberia Madrid
       details: |
        - Design, develop and architecture WPF/Net Core  C# application based on N-Layers Architecture, using PRISM Framework for implementing MVVM pattern and modularity including Dependency Injection. Syncfusion components. Infrastructure layer with Repository pattern plus Entity Framework Database SQL-Server 2017 T-SQL. Create Nuget Package. Unit Testing.
-       -Create, deploy and distributed multiple service worker in NetCore 3.1 using RabbitMQ to allow scalability and balance.
-       -Image conversions with LeadTools 19. File Transformation Interop/ LibreOffice.
-       -Develop and Deploy WebSevice Restful API ASP.NET 2. Windows Services in C#. Azure blob storage.
-       -Support and maintenance of multiple applications based on bug analysis and elimination, as well as include new requirements from the client.
-       -Requirement Gathering from client and subsequently, Analysis and Development of them.
-       -Implement agile scrum methodology in application development.
+       - Create, deploy and distributed multiple service worker in NetCore 3.1 using RabbitMQ to allow scalability and balance.
+       - Image conversions with LeadTools 19. File Transformation Interop/ LibreOffice.
+       - Develop and Deploy WebSevice Restful API ASP.NET 2. Windows Services in C#. Azure blob storage.
+       - Support and maintenance of multiple applications based on bug analysis and elimination, as well as include new requirements from the client.
+       - Requirement Gathering from client and subsequently, Analysis and Development of them.
+       - Implement agile scrum methodology in application development.
 
     - role: Senior Software Engineer
       time: 2014 - 2015
