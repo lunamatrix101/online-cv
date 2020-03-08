@@ -69,9 +69,10 @@ experiences:
       time: JUL 2016 - DEC 2016
       company: Polytechnic University of Madrid (UPM)
       details: |
-        Frontend Developer (HTML5 , bootstrap, css3, JavaScript, Ajax, Maps, Telerik).  
-      title: MapeoCo.Opera
-      link: "http://mapeoco.aq.upm.es/buscador.php"      
+        Frontend Developer (HTML5 , bootstrap, css3, JavaScript, Ajax, Maps, Telerik).
+      papers:
+      - title: MapeoCo.Opera
+        link: "http://mapeoco.aq.upm.es/buscador.php"      
     - role: Junior Programmer
       time: JUL 2016 - JUL2015
       company: Zed Worldwide,S.A.
@@ -85,10 +86,11 @@ experiences:
     - role: Volunteer
       time: Present - 2016
       details: |
-      title: Mentoring - TechSHEssions
-      link: "https://2018.commit-conf.com/tech-shessions/"
-      title: Co-Organizer - WomenDotNet Community
-      link: "https://twitter.com/womendot?lang=es"
+      papers:
+      - title: Mentoring - TechSHEssions
+        link: "https://2018.commit-conf.com/tech-shessions/"
+      - title: Co-Organizer - WomenDotNet Community
+        link: "https://twitter.com/womendot?lang=es"
 publications:
     title: Online Courses 
     papers:
