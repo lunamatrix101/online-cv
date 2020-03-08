@@ -91,6 +91,11 @@ experiences:
       details: |
         - Mentoring - TechSHEssions - https://2018.commit-conf.com/tech-shessions/
         - Co-Organizer - WomenDotNet Community @WomenDot
+publications:
+    title: Online Courses   
+      - title: C# Pragimtech
+      - title: Transact-SQL - EDX
+      - title: FrontEnd HTML, CSS and JavaScript Web Development- EDX
 skills:
     title: Skills &amp; Proficiency
 
