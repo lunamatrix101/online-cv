@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: luna.garrido.lopez@gmail.com
     phone: 691670078
-    website: mapeoco.aq.upm.es/buscador.php #do not add http://
+    website: #do not add http://
     linkedin: www.linkedin.com/in/lunagarrido
     github: lunamatrix101
     gitlab:
@@ -74,16 +74,12 @@ experiences:
        - Requirement Gathering from client and subsequently, Analysis and Development of them.
        - Implement agile scrum methodology in application development.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: FrontEnd Developer
+      time: JUL 2016 - DEC 2016
+      company: Polytechnic University of Madrid (UPM)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
+        Frontend Developer (HTML5 , bootstrap, css3, JavaScript, Ajax, Maps, Telerik).
+          - Website: mapeoco.aq.upm.es/buscador.php
           - Bullet point
     - role: UI Developer
       time: 2012 - 2014
