@@ -27,8 +27,6 @@ sidebar:
     languages:
       - idiom: English
         level: B2-C1
-        details: xxx
-
       - idiom: Spanish
         level: Professional
         
@@ -76,8 +74,8 @@ experiences:
       company: Polytechnic University of Madrid (UPM)
       details: |
         Frontend Developer (HTML5 , bootstrap, css3, JavaScript, Ajax, Maps, Telerik).  
-    - title: MapeoCo.Opera
-      link: "#http://mapeoco.aq.upm.es/buscador.php"
+        - MapeoCo.Opera
+        link: "#http://mapeoco.aq.upm.es/buscador.php"
     - role: Junior Programmer
       time: JUL 2016 - JUL2015
       company: Zed Worldwide,S.A.
