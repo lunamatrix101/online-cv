@@ -29,7 +29,7 @@
     </div><!--//details-->
     {% endif %}
     {% if experience.papers %}
-          <div class="item">
+          <div class="items">
           {% for publication in experience.papers %}           
               {% if publication.link %}
                 <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
