@@ -76,6 +76,9 @@ experiences:
       company: Polytechnic University of Madrid (UPM)
       details: |
         Frontend Developer (HTML5 , bootstrap, css3, JavaScript, Ajax, Maps, Telerik).
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
       papers:
       - title: MapeoCo.Opera
         link: "http://mapeoco.aq.upm.es/buscador.php"
