@@ -76,12 +76,9 @@ experiences:
       company: Polytechnic University of Madrid (UPM)
       details: |
         Frontend Developer (HTML5 , bootstrap, css3, JavaScript, Ajax, Maps, Telerik).
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-      papers:
+      papers:  
       - title: MapeoCo.Opera
-        link: "http://mapeoco.aq.upm.es/buscador.php"
+        link: "#http://mapeoco.aq.upm.es/buscador.php"
     - role: Junior Programmer
       time: JUL 2016 - JUL2015
       company: Zed Worldwide,S.A.
