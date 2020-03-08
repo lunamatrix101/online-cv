@@ -71,6 +71,9 @@ experiences:
       details: |
         Frontend Developer (HTML5 , bootstrap, css3, JavaScript, Ajax, Maps, Telerik).  
         - MapeoCo.Opera http://mapeoco.aq.upm.es/buscador.php
+      papers:
+      - title: The Art of Computer Programming
+        link: "#"
     - role: Junior Programmer
       time: JUL 2016 - JUL2015
       company: Zed Worldwide,S.A.
